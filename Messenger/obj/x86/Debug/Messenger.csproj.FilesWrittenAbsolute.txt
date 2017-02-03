@@ -1,0 +1,6 @@
+/home/nolan/dev/Messenger/Messenger/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nolan/dev/Messenger/Messenger/obj/x86/Debug/Messenger.gtk-gui.gui.stetic
+/home/nolan/dev/Messenger/Messenger/bin/Debug/Messenger.exe.mdb
+/home/nolan/dev/Messenger/Messenger/bin/Debug/Messenger.exe
+/home/nolan/dev/Messenger/Messenger/obj/x86/Debug/Messenger.exe
+/home/nolan/dev/Messenger/Messenger/obj/x86/Debug/Messenger.exe.mdb
