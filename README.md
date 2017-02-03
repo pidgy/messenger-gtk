@@ -1,7 +1,7 @@
+#GtkMessenger
+
 ![Alt text](/Screenshots/FrontPage.png?raw=true "Viewing Clients")
 ![Alt text](/Screenshots/Condensed.png?raw=true "Viewing Clients")
-
-#GtkMessenger
 
 Facebook no longer permits XMPP protocol application for Messenger on Pidgin or Empathy.
 The easy solution was a desktop app that displays the messenger.com interface.
