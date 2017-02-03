@@ -1,16 +1,15 @@
-![Alt text](/Screenshots/View_All_Clients.png?raw=true "Viewing Clients")
+![Alt text](/Screenshots/FrontPage.png?raw=true "Viewing Clients")
+![Alt text](/Screenshots/Condensed.png?raw=true "Viewing Clients")
 
-COMP 3005 DATABASE APPLICATION
+#GtkMessenger
 
-	This repo is entirely free to anyone learning GTK#, Mono, or even SQLite.
-	The application was created for COMP3005 Database class at Carleton University.
-	
-	The goal of this application is to demonstrate the usage of SQLite within a desktop application.
+Facebook no longer permits XMPP protocol application for Messenger on Pidgin or Empathy.
+The easy solution was a desktop app that displays the messenger.com interface.
+
+Super simple dynamic WebView that wraps Facebook Messenger into a GtkWindow.
 
 
 TO RUN APPLICATION:
-
-   Here are the instructions to run the 3005DatabaseApplication GUI
 
    1. Open a linux environment with sudo access
 		you can use a VM or a full on linux/unix based computer
@@ -23,12 +22,12 @@ TO RUN APPLICATION:
 
 	sudo apt-get install gtk-sharp3
 
-   4. Once both libraries are installed then, via the terminal, open the 'Release' folder included with the code.
-      type the command 'mono 3005DatabaseApplication.exe' and the GUI will open.
+   4. Once both libraries are installed then, via the terminal, open the 'Debug' folder included with the code.
+      type the command './Messenger.exe' and the GUI will open.
 
       Example:
-      > cd 3005DatabaseApplication/bin/Release
-      > mono 3005DatabaseApplication.exe
+      > cd Messenger/Messenger/bin/Debug
+      > ./3005DatabaseApplication.exe
 
 
 
@@ -37,7 +36,6 @@ TO RUN APPLICATION:
               gtk-sharp3                      - GTK# 3.0 suite, CLI bindings for GTK+ (http://www.mono-project.com/docs/gui/gtksharp/)
       
 I hope I made this as easy as possible!
-I can also demo the application if you are unable to run it.
 
 Thanks!
 
