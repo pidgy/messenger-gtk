@@ -27,7 +27,7 @@ TO RUN APPLICATION:
 
       Example:
       > cd Messenger/Messenger/bin/Debug
-      > ./3005DatabaseApplication.exe
+      > mono Messenger.exe
 
 
 
