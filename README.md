@@ -10,8 +10,9 @@ Super simple dynamic WebView that wraps Facebook Messenger into a GtkWindow.
 
 
 TO RUN APPLICATION:
-
-	./INSTALL 
+        
+	chmod +x INSTALL
+	sudo /bin/sh INSTALL 
 	
 Desktop Launcher will be created!
 
