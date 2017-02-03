@@ -1,0 +1,24 @@
+#!/bin/bash
+DIR=~/.local/share/applications
+ICON_DIR=~/.local/share/applications/Icons
+
+printf "Installing GtkMessenger...\n\n"
+
+
+mkdir $ICON_DIR
+
+cp ./Messenger/bin/Debug/Messenger.exe /bin/messenger
+cp Icons/messenger_tr.png $ICON_DIR
+
+
+cp messenger.desktop $DIR
+chmod 777 $DIR/messenger.desktop
+chmod 777 /bin/messenger
+
+if [ $? -eq 0 ]
+then
+	printf "\nGtkMessenger Installed\n"
+else
+	printf "\nInstallation Failed\n"
+fi
+

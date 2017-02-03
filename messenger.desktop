@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=GtkMessenger
+Exec=mono /bin/messenger
+Type=Application
+Icon=/home/nolan/.local/share/applications/Icons/messenger_tr.png
