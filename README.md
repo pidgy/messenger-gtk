@@ -1,4 +1,4 @@
-#GtkMessenger
+#GtkMessenger V.1.1
 
 ![Alt text](/Screenshots/FrontPage.png?raw=true "Login Page")
 ![Alt text](/Screenshots/Condensed.png?raw=true "Square Page View")
@@ -20,4 +20,7 @@ Desktop Launcher will be created!
               mono-devel                      - Mono development tools   (http://www.mono-project.com/)                       
               gtk-sharp3                      - GTK# 3.0 suite, CLI bindings for GTK+ (http://www.mono-project.com/docs/gui/gtksharp/)
   
+#ToDo: GtkMessenger V.1.2
 
+	Display message notifications in window list
+	Disable leaving messenger.com page
