@@ -24,3 +24,4 @@ Desktop Launcher will be created!
 
 	Display message notifications in window list
 	Disable leaving messenger.com page
+	Multiple Theme Options
