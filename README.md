@@ -19,6 +19,7 @@ Desktop Launcher will be created!
    Necessary Libraries:
               mono-devel                      - Mono development tools   (http://www.mono-project.com/)                       
               gtk-sharp3                      - GTK# 3.0 suite, CLI bindings for GTK+ (http://www.mono-project.com/docs/gui/gtksharp/)
+	      libwebkit2gtk-3.0
   
 #ToDo: GtkMessenger V.1.2
 
